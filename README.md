@@ -329,20 +329,7 @@ Laravel is therefore a demonstration scenario—not a dependency of the Embedded
 
 ## 📚 Documentation
 
-The Wiki will contain detailed documentation for:
-
-* [Getting Started](Getting-Started)
-* [Installation](Installation)
-* [Integration Guide](Integration-Guide)
-* [API Reference](API-Reference)
-* [Command Execution](Command-Execution)
-* [Interactive Mode](Interactive-Mode)
-* [Events](Events)
-* [Platform Support](Platform-Support)
-* [Architecture](Architecture)
-* [Troubleshooting](Troubleshooting)
-* [Development](Development)
-
+See the Wiki pages for details.
 Documentation will evolve alongside the package.
 
 ## 🚧 Project Status

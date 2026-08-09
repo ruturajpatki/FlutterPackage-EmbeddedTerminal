@@ -1,8 +1,8 @@
 # EmbeddedTerminal
 
-**A reusable cross-platform embedded terminal widget for Flutter Desktop.**
-
 ![Build](https://img.shields.io/badge/Build-Passing-green?style=for-the-badge) ![Framework](https://img.shields.io/badge/Framework-Flutter%20Dart-blue?style=for-the-badge) ![Platforms](https://img.shields.io/badge/Platforms-WIN%20%E2%80%A2%20MAC%20%E2%80%A2%20LINUX-yellowgreen?style=for-the-badge) ![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey?style=for-the-badge)
+
+**A reusable cross-platform embedded terminal widget for Flutter Desktop.**
 
 EmbeddedTerminal brings a real terminal experience directly into Flutter Desktop applications. It is designed for applications that need to execute developer commands and display their output inside the application's own UI—without opening an external Command Prompt, PowerShell, Terminal, or other terminal application.
 

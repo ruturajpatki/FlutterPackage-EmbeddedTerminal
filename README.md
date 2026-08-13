@@ -10,9 +10,11 @@ Built with a terminal emulator and a real PTY architecture, EmbeddedTerminal is 
 
 **Demo**
 
-[Embedded Terminal Flutter Component - Interactive Mode](https://www.ruturajpatki.com/git/flutter-embedded-terminal/interactive.gif)
+*Embedded Terminal Flutter Component - Interactive Mode*
+![Embedded Terminal Flutter Component - Interactive Mode](./documentation/images/interactive.gif)
 
-[Embedded Terminal Flutter Component  - ReadOnly Mode](https://www.ruturajpatki.com/git/flutter-embedded-terminal/readonly.gif)
+*Embedded Terminal Flutter Component  - ReadOnly Mode*
+![Embedded Terminal Flutter Component  - ReadOnly Mode](./documentation/images/readonly.gif)
 
 ---
 
